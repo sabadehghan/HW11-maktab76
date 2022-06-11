@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+#table {
+  display: block;
+  margin-top: 20px;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 15px;
+}
